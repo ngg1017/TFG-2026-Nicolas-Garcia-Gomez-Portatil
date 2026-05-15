@@ -1,0 +1,7 @@
+reflex==0.8.28
+pandas
+matplotlib
+FPDF2
+scikit-learn
+urllib3==2.2.3
+chardet==5.2.0
